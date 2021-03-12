@@ -1,0 +1,2 @@
+Come up with a code to get the tags for the Test_docs
+The train_docs and Train_tags are present already.
